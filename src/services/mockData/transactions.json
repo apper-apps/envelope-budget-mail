@@ -1,0 +1,90 @@
+[
+  {
+    "Id": 1,
+    "categoryId": "1",
+    "accountId": "1",
+    "amount": 85.50,
+    "description": "Weekly Grocery Shopping",
+    "date": "2024-01-15T10:30:00Z",
+    "type": "expense",
+    "categoryName": "Groceries",
+    "accountName": "Main Checking"
+  },
+  {
+    "Id": 2,
+    "categoryId": "2",
+    "accountId": "1",
+    "amount": 1200.00,
+    "description": "Monthly Rent Payment",
+    "date": "2024-01-01T09:00:00Z",
+    "type": "expense",
+    "categoryName": "Rent",
+    "accountName": "Main Checking"
+  },
+  {
+    "Id": 3,
+    "categoryId": null,
+    "accountId": "1",
+    "amount": 3500.00,
+    "description": "Salary Deposit",
+    "date": "2024-01-01T08:00:00Z",
+    "type": "income",
+    "categoryName": null,
+    "accountName": "Main Checking"
+  },
+  {
+    "Id": 4,
+    "categoryId": "3",
+    "accountId": "1",
+    "amount": 45.00,
+    "description": "Gas Station Fill-up",
+    "date": "2024-01-14T16:45:00Z",
+    "type": "expense",
+    "categoryName": "Transportation",
+    "accountName": "Main Checking"
+  },
+  {
+    "Id": 5,
+    "categoryId": "4",
+    "accountId": "3",
+    "amount": 25.00,
+    "description": "Movie Tickets",
+    "date": "2024-01-13T19:30:00Z",
+    "type": "expense",
+    "categoryName": "Entertainment",
+    "accountName": "Credit Card"
+  },
+  {
+    "Id": 6,
+    "categoryId": "5",
+    "accountId": "3",
+    "amount": 42.75,
+    "description": "Dinner at Restaurant",
+    "date": "2024-01-12T20:15:00Z",
+    "type": "expense",
+    "categoryName": "Dining Out",
+    "accountName": "Credit Card"
+  },
+  {
+    "Id": 7,
+    "categoryId": "1",
+    "accountId": "1",
+    "amount": 67.25,
+    "description": "Grocery Store",
+    "date": "2024-01-10T14:20:00Z",
+    "type": "expense",
+    "categoryName": "Groceries",
+    "accountName": "Main Checking"
+  },
+  {
+    "Id": 8,
+    "categoryId": "6",
+    "accountId": "1",
+    "amount": 85.00,
+    "description": "Doctor Visit Copay",
+    "date": "2024-01-08T11:00:00Z",
+    "type": "expense",
+    "categoryName": "Healthcare",
+    "accountName": "Main Checking"
+  }
+]

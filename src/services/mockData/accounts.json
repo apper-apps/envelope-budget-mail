@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 1,
+    "name": "Main Checking",
+    "balance": 2500.50,
+    "type": "checking"
+  },
+  {
+    "Id": 2,
+    "name": "Emergency Savings",
+    "balance": 5000.00,
+    "type": "savings"
+  },
+  {
+    "Id": 3,
+    "name": "Credit Card",
+    "balance": -750.25,
+    "type": "credit"
+  },
+  {
+    "Id": 4,
+    "name": "Investment Account",
+    "balance": 12500.75,
+    "type": "investment"
+  }
+]

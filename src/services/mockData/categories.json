@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "name": "Groceries",
+    "allocated": 500.00,
+    "spent": 342.50,
+    "color": "#10b981",
+    "icon": "ShoppingCart",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Rent",
+    "allocated": 1200.00,
+    "spent": 1200.00,
+    "color": "#4f46e5",
+    "icon": "Home",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Transportation",
+    "allocated": 300.00,
+    "spent": 185.75,
+    "color": "#f59e0b",
+    "icon": "Car",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Entertainment",
+    "allocated": 200.00,
+    "spent": 125.00,
+    "color": "#7c3aed",
+    "icon": "Gamepad2",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "Dining Out",
+    "allocated": 250.00,
+    "spent": 180.25,
+    "color": "#ef4444",
+    "icon": "Utensils",
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "Id": 6,
+    "name": "Healthcare",
+    "allocated": 150.00,
+    "spent": 85.00,
+    "color": "#3b82f6",
+    "icon": "Heart",
+    "createdAt": "2024-01-01T00:00:00Z"
+  }
+]
