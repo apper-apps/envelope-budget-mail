@@ -6,6 +6,30 @@ export default {
   ],
   theme: {
     extend: {
+      colors: {
+        success: {
+          50: '#f0fdf4',
+          200: '#bbf7d0',
+          700: '#15803d',
+        },
+        error: {
+          50: '#fef2f2',
+          200: '#fecaca',
+          700: '#b91c1c',
+        },
+      },
+    },
+  },
+  plugins: [],
+}
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
       fontFamily: {
         sans: ['Inter', 'system-ui', 'sans-serif'],
       },
